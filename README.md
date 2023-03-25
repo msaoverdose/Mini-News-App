@@ -4,8 +4,9 @@ Telegram: msaoverd0se
 
 # News App Screenshots
 This mini project creating a mini news label with using python. You can use whatever you want. Made by DMSA
-
 Interface of our program.
+
+
 <img width="561" alt="Screenshot 2023-03-25 at 11 16 44" src="https://user-images.githubusercontent.com/49487581/227706095-d2e2961a-7805-43c3-af2b-bc5687dc09b3.png">
 
 
