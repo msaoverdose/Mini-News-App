@@ -1,3 +1,7 @@
+# Comminicate with me
+Discord: msa#2855
+Telegram: msaoverd0se
+
 # News App Screenshots
 This mini project creating a mini news label with using python. You can use whatever you want. Made by DMSA
 
@@ -13,6 +17,3 @@ You can attend the news page with click.
 You can develop this program with add more new sources and add news filter.
 
 
-#Comminicate with me
-Discord: msa#2855
-Telegram: msaoverd0se
