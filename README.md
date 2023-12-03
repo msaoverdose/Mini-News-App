@@ -1,5 +1,5 @@
 # Comminicate with me
-Discord: msa#2855
+Discord: msaoverdose
 Telegram: msaoverd0se
 
 # News App Screenshots
